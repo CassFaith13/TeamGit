@@ -1,1 +1,22 @@
 
+body {
+    background-color: rgb(102, 132, 132);
+}
+.title {
+    color:rgb(255, 255, 255);
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    }
+
+.name {
+    color:rgb(255, 255, 255);
+}
+
+.blurb {
+    color:rgb(255, 255, 255);
+}
